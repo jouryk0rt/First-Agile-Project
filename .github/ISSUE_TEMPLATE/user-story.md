@@ -11,12 +11,12 @@ assignees: ''
   
  # Acceptance Criteria #
   
-  - Acceptance Criteria 1
-  - Acceptance Criteria 2
-  - Acceptance Criteria 3
+- Acceptance Criteria 1
+- Acceptance Criteria 2
+- Acceptance Criteria 3
   
   # Tasks #
   
-  &#9744; task 1
-  &#9744; task 2
-  &#9744; task 3
+- [ ] task 1
+- [ ] task 2
+- [ ] task 3
