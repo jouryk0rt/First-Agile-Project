@@ -17,6 +17,6 @@ assignees: ''
   
   # Tasks #
   
-  [ ] task 1
-  [ ] task 2
-  [ ] task 3
+  &#9744; task 1
+  &#9744; task 2
+  &#9744; task 3
